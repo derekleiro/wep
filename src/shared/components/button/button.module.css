@@ -1,0 +1,14 @@
+.default_style {
+	font-family: "Poppins";
+	outline: none;
+	padding: 7.5px 15px;
+	color: black;
+	cursor: pointer;
+	/* From https://css.glass */
+	background: rgba(110, 135, 219, 0.41);
+	border-radius: 35px;
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(6.5px);
+	-webkit-backdrop-filter: blur(6.5px);
+	border: 1px solid rgba(110, 135, 219, 0.3);
+}

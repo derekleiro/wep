@@ -1,0 +1,24 @@
+.bottom_strip {
+	padding: 2.5px 0;
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(6.5px);
+	-webkit-backdrop-filter: blur(6.5px);
+	border: 1px solid rgba(110, 135, 219, 0.3);
+	width: 100%;
+	text-align: center;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+}
+
+.bottom_strip ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.bottom_strip li {
+	display: inline-block;
+	padding: 0 10px;
+	font-size: 13px;
+	cursor: pointer;
+}

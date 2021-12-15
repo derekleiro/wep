@@ -1,0 +1,12 @@
+.unit {
+	width: 80%;
+	margin: 0 auto;
+	padding: 100px 0;
+	display: flex;
+	transition: opacity ease-in-out 400ms;
+}
+
+.content {
+	display: flex;
+	flex-wrap: wrap;
+}

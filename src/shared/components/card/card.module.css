@@ -1,0 +1,20 @@
+.card {
+	backdrop-filter: blur(6.5px);
+	-webkit-backdrop-filter: blur(6.5px);
+	border: none;
+	padding: 15px;
+	margin: 10px;
+	min-width: 250px;
+	flex: 1;
+	cursor: pointer;
+}
+
+.card img {
+	width: 100%;
+	height: auto;
+}
+
+.progress {
+	color: rgb(110, 135, 219);
+	margin: 15px 0;
+}

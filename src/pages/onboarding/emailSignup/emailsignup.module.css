@@ -1,0 +1,4 @@
+.email_signup {
+	transition: opacity ease-in-out 400ms;
+	width: 600px;
+}

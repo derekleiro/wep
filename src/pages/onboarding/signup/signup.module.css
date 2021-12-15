@@ -1,0 +1,27 @@
+.signup {
+	transition: opacity ease-in-out 400ms;
+	width: 600px;
+}
+
+.title {
+	font-size: 20px;
+}
+
+.content {
+	display: flex;
+}
+
+.content ul {
+	padding: 0;
+	margin: 0 auto;
+	list-style-type: none;
+}
+
+.content li {
+	margin: 10px 5px;
+}
+
+.content img {
+	vertical-align: middle;
+	margin-right: 15px;
+}

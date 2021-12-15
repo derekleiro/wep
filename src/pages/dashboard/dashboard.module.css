@@ -1,0 +1,38 @@
+.dashboard {
+	width: 80%;
+	margin: 0 auto;
+	padding: 100px 0;
+	display: flex;
+	transition: opacity ease-in-out 400ms;
+}
+
+.content {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.ul {
+	list-style-type: none;
+	padding: 0;
+	position: fixed;
+	margin: 0 auto;
+}
+
+.ul li {
+	cursor: pointer;
+	margin: 15px;
+	font-family: "Poppins Thin";
+	font-weight: 700;
+	font-size: 18px;
+}
+
+.li_active {
+	background: #cfd8dc;
+	border-radius: 35px;
+	padding: 5px 10px;
+}
+
+.ul img {
+	vertical-align: middle;
+	margin-right: 10px;
+}
