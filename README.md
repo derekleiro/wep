@@ -1,6 +1,6 @@
 # World Education Program
 
-Welcome to the world education program. Education free for all for life
+Welcome to the world education program. Education free for all for life.
 Just an idea I thought I would share on how to make education more accessible. It is by no means complete. But I challenge anyone one who wants to build on it to be my guest. For the benefit of the world!
 
 ## Available Scripts
